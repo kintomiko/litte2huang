@@ -2,7 +2,7 @@
   "name": "little2huang",
   "version": "0.0.0",
   "private": true,
-  "author": "yuanlin1110@gmail.com",
+  "author": "kin <yuanlin1110@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot-maps": "0.0.2",
