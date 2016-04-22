@@ -3,10 +3,14 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
-  "hubot-google-translate",
+  "hubot-microsoft-translator",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-youtube",
+  "hubot-reload-scripts",
+  "hubot-sentimental",
+  "hubot-jira-bot"
 ]

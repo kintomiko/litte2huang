@@ -17,7 +17,14 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "~2.16.2",
     "hubot": "~2.18.0",
-    "hubot-slack": "~3.4.2"
+    "hubot-slack": "~3.4.2",
+    "hubot-microsoft-translator": "~0.2.0",
+    "hubot-qq": "",
+    "hubot-sentimental": "~1.0.8",
+    "hubot-youtube": "~1.0.2",
+    "hubot-jira-servant": "~1.2.0",
+    "hubot-jira-bot": "~5.10.1",
+    "hubot-reload-scripts": "~0.1.2"
   },
   "engines": {
     "node": "0.10.x"
