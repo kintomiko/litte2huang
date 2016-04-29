@@ -1,0 +1,1169 @@
+[Thu Apr 14 2016 07:24:57 GMT-0400 (EDT)] ERROR No services token provided to Hubot
+[Thu Apr 14 2016 07:25:44 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 14 2016 07:25:44 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Thu Apr 14 2016 07:25:44 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 14 2016 07:25:44 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 14 2016 07:25:45 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Thu Apr 14 2016 07:25:45 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 14 2016 07:48:33 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 14 2016 07:48:33 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Thu Apr 14 2016 07:48:33 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 14 2016 07:48:33 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 14 2016 07:48:34 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Thu Apr 14 2016 07:48:34 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 14 2016 07:50:42 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 14 2016 08:01:52 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 14 2016 09:05:53 GMT-0400 (EDT)] ERROR Last pong is too old: 10.004
+[Thu Apr 14 2016 09:05:53 GMT-0400 (EDT)] INFO Reconnecting in 1000ms
+[Thu Apr 14 2016 09:05:54 GMT-0400 (EDT)] INFO Attempting reconnect
+[Thu Apr 14 2016 09:05:54 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 14 2016 09:05:54 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Thu Apr 14 2016 09:05:55 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 14 2016 09:06:06 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Thu Apr 14 2016 09:59:43 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 14 2016 20:23:20 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 14 2016 20:28:52 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 14 2016 20:28:52 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Thu Apr 14 2016 20:28:52 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 14 2016 20:28:52 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 14 2016 20:28:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Thu Apr 14 2016 20:28:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 14 2016 20:29:03 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Fri Apr 15 2016 05:12:17 GMT-0400 (EDT)] ERROR SyntaxError: Invalid JS code
+  at /home/npm/hubot/node_modules/hubot-google-translate/src/google-translate.coffee:122:23, <js>:131:19
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Fri Apr 15 2016 09:50:49 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 15 2016 09:50:49 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Fri Apr 15 2016 09:50:50 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 15 2016 09:50:50 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 15 2016 09:50:50 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Apr 15 2016 09:50:50 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 15 2016 09:51:07 GMT-0400 (EDT)] ERROR undefined
+[Fri Apr 15 2016 09:51:23 GMT-0400 (EDT)] ERROR undefined
+[Fri Apr 15 2016 10:50:58 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 15 2016 10:50:58 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Fri Apr 15 2016 10:50:58 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 15 2016 10:50:59 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 15 2016 10:50:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Apr 15 2016 10:50:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 15 2016 20:05:43 GMT-0400 (EDT)] ERROR 请配置qq 密码 和监听群名字，具体查阅帮助
+[Fri Apr 15 2016 20:07:17 GMT-0400 (EDT)] ERROR 请配置qq 密码 和监听群名字，具体查阅帮助
+[Fri Apr 15 2016 23:22:12 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 15 2016 23:22:12 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Fri Apr 15 2016 23:22:12 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Fri Apr 15 2016 23:22:13 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 15 2016 23:22:13 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 15 2016 23:22:13 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Apr 15 2016 23:22:13 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 15 2016 23:30:52 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 15 2016 23:30:52 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Fri Apr 15 2016 23:30:52 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 15 2016 23:30:52 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 15 2016 23:30:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Apr 15 2016 23:30:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 16 2016 10:47:53 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 16 2016 10:47:53 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Sat Apr 16 2016 10:47:53 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 16 2016 10:47:53 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-youtube'
+  at Function.Module._resolveFilename (module.js:338:15)
+  at Function.Module._load (module.js:280:25)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadExternalScripts (/home/npm/hubot/node_modules/hubot/src/robot.coffee:401:11, <js>:272:27)
+  at /home/npm/hubot/node_modules/hubot/bin/hubot:119:11, <js>:126:26
+  at fs.js:272:14
+  at Object.oncomplete (fs.js:108:15)
+
+[Sat Apr 16 2016 10:49:00 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 16 2016 10:49:00 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Sat Apr 16 2016 10:49:01 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 16 2016 10:49:01 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sat Apr 16 2016 10:49:01 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 16 2016 10:49:01 GMT-0400 (EDT)] ERROR Error: Redis connection to 6379:6379 failed - connect EINVAL
+  at RedisClient.on_error (/home/npm/hubot/node_modules/hubot-redis-brain/node_modules/redis/index.js:163:24)
+  at Socket.<anonymous> (/home/npm/hubot/node_modules/hubot-redis-brain/node_modules/redis/index.js:86:14)
+  at Socket.emit (events.js:95:17)
+  at net.js:441:14
+  at process._tickCallback (node.js:448:13)
+
+[Sat Apr 16 2016 10:53:17 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 16 2016 10:53:17 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Sat Apr 16 2016 10:53:18 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 16 2016 10:53:18 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sat Apr 16 2016 10:53:18 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 16 2016 10:53:18 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 16 2016 10:56:56 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 16 2016 10:56:56 GMT-0400 (EDT)] INFO Logged in as hubot of analog, but not yet connected
+[Sat Apr 16 2016 10:56:56 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 16 2016 10:56:56 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sat Apr 16 2016 10:56:57 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 16 2016 10:56:57 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 16 2016 11:11:41 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 16 2016 11:11:42 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sat Apr 16 2016 11:11:42 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sat Apr 16 2016 11:11:42 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 16 2016 11:11:42 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sat Apr 16 2016 11:11:43 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 16 2016 11:11:43 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 16 2016 15:47:58 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Sun Apr 17 2016 12:20:00 GMT-0400 (EDT)] INFO Connecting...
+[Sun Apr 17 2016 12:20:00 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sun Apr 17 2016 12:20:01 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sun Apr 17 2016 12:20:01 GMT-0400 (EDT)] INFO Slack client now connected
+[Sun Apr 17 2016 12:20:01 GMT-0400 (EDT)] INFO /home/npm/hubot/node_modules/hubot-jira-servant/dist/module-attachment-test.js is using deprecated documentation syntax
+Missing environment variable(s)
+Need: HUBOT_JIRA_USER, HUBOT_JIRA_PASS, HUBOT_JIRA_HOST, HUBOT_JIRA_DEFAULT_PROJECT
+[Sun Apr 17 2016 12:21:43 GMT-0400 (EDT)] INFO Connecting...
+[Sun Apr 17 2016 12:21:43 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sun Apr 17 2016 12:21:43 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sun Apr 17 2016 12:21:43 GMT-0400 (EDT)] INFO Slack client now connected
+[Sun Apr 17 2016 12:21:44 GMT-0400 (EDT)] INFO /home/npm/hubot/node_modules/hubot-jira-servant/dist/module-attachment-test.js is using deprecated documentation syntax
+[Sun Apr 17 2016 12:21:45 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Apr 17 2016 12:21:45 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sun Apr 17 2016 12:21:45 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+ERROR!
+{ [Error: socket hang up] code: 'ECONNRESET' }
+[Sun Apr 17 2016 12:26:15 GMT-0400 (EDT)] INFO Connecting...
+[Sun Apr 17 2016 12:26:15 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sun Apr 17 2016 12:26:15 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sun Apr 17 2016 12:26:15 GMT-0400 (EDT)] INFO Slack client now connected
+[Sun Apr 17 2016 12:26:15 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Apr 17 2016 12:26:16 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sun Apr 17 2016 12:26:16 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token u
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Sun Apr 17 2016 12:28:21 GMT-0400 (EDT)] INFO Connecting...
+[Sun Apr 17 2016 12:28:21 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sun Apr 17 2016 12:28:21 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sun Apr 17 2016 12:28:21 GMT-0400 (EDT)] INFO Slack client now connected
+[Sun Apr 17 2016 12:28:22 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Apr 17 2016 12:28:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sun Apr 17 2016 12:28:22 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token u
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Sun Apr 17 2016 12:32:24 GMT-0400 (EDT)] INFO Connecting...
+[Sun Apr 17 2016 12:32:24 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Sun Apr 17 2016 12:32:24 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sun Apr 17 2016 12:32:24 GMT-0400 (EDT)] INFO Slack client now connected
+[Sun Apr 17 2016 12:32:25 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Sun Apr 17 2016 12:32:25 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sun Apr 17 2016 12:32:25 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token u
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:21:08 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:21:08 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:21:08 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:21:08 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:21:09 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:21:09 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token u
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:25:10 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:25:11 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:25:11 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:25:11 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:25:11 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:25:12 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token b
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:33:31 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:33:31 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:33:31 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:33:32 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:33:32 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:33:32 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token b
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:34:00 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:34:01 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:34:01 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:34:01 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:34:01 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:34:02 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token b
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:51:51 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:51:51 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:51:51 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:51:52 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:51:52 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:51:53 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token b
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 00:54:28 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 00:54:28 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 00:54:28 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 00:54:28 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 00:54:29 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 00:54:29 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token b
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:3:5, <js>:10:22
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 01:05:20 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 01:05:20 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 01:05:20 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 01:05:21 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 01:05:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 01:05:22 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/node_modules/hubot-jira-bot/src/index: SyntaxError: Unexpected token s
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:4:30, <js>:11:19
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:156:5)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/config.coffee:1:1, <js>:160:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:31:10, <js>:8:12)
+  at Object.<anonymous> (/home/npm/hubot/node_modules/hubot-jira-bot/src/index.coffee:28:1, <js>:580:4)
+  at Module._compile (module.js:456:26)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:182:19)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/index.coffee:7:5, <js>:13:22
+  at Object.cb [as oncomplete] (fs.js:169:19)
+
+[Mon Apr 18 2016 01:07:39 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 01:07:40 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 01:07:40 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 01:07:40 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 01:07:40 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 01:07:42 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Mon Apr 18 2016 01:09:33 GMT-0400 (EDT)] ERROR { [Error: Unauthorized: https://intranet.zuora.com/jira/rest/api/2/search]
+  response: 
+   { url: 'https://intranet.zuora.com/jira/rest/api/2/search',
+     status: 401,
+     statusText: 'Unauthorized',
+     headers: { _headers: [Object] },
+     ok: false,
+     body: 
+      { _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        _transformState: [Object] },
+     bodyUsed: false,
+     size: 0,
+     timeout: 0,
+     _raw: [],
+     _abort: false } }
+[Mon Apr 18 2016 01:09:33 GMT-0400 (EDT)] ERROR Error: Unauthorized: https://intranet.zuora.com/jira/rest/api/2/search
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/utils.coffee:23:9, <js>:33:19
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:09:33 GMT-0400 (EDT)] ERROR SyntaxError: Unexpected token <
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/node_modules/node-fetch/lib/body.js:43:15
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:09:54 GMT-0400 (EDT)] ERROR { [Error: Unauthorized: https://intranet.zuora.com/jira/rest/api/2/search]
+  response: 
+   { url: 'https://intranet.zuora.com/jira/rest/api/2/search',
+     status: 401,
+     statusText: 'Unauthorized',
+     headers: { _headers: [Object] },
+     ok: false,
+     body: 
+      { _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        _transformState: [Object] },
+     bodyUsed: false,
+     size: 0,
+     timeout: 0,
+     _raw: [],
+     _abort: false } }
+[Mon Apr 18 2016 01:09:54 GMT-0400 (EDT)] ERROR Error: Unauthorized: https://intranet.zuora.com/jira/rest/api/2/search
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/utils.coffee:23:9, <js>:33:19
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:09:55 GMT-0400 (EDT)] ERROR SyntaxError: Unexpected token <
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/node_modules/node-fetch/lib/body.js:43:15
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:12:18 GMT-0400 (EDT)] INFO Connecting...
+[Mon Apr 18 2016 01:12:19 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Mon Apr 18 2016 01:12:19 GMT-0400 (EDT)] INFO Slack client now connected
+[Mon Apr 18 2016 01:12:19 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Mon Apr 18 2016 01:12:19 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Mon Apr 18 2016 01:12:21 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Mon Apr 18 2016 01:13:48 GMT-0400 (EDT)] INFO Enabling JIRA notifications for yuan.lin
+[Mon Apr 18 2016 01:14:47 GMT-0400 (EDT)] ERROR { [Error: Bad Request: https://intranet.zuora.com/jira/rest/api/2/issue]
+  response: 
+   { url: 'https://intranet.zuora.com/jira/rest/api/2/issue',
+     status: 400,
+     statusText: 'Bad Request',
+     headers: { _headers: [Object] },
+     ok: false,
+     body: 
+      { _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        _transformState: [Object] },
+     bodyUsed: false,
+     size: 0,
+     timeout: 0,
+     _raw: [],
+     _abort: false } }
+[Mon Apr 18 2016 01:14:47 GMT-0400 (EDT)] ERROR Error: Bad Request: https://intranet.zuora.com/jira/rest/api/2/issue
+  at /home/npm/hubot/node_modules/hubot-jira-bot/src/utils.coffee:23:9, <js>:33:19
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:14:47 GMT-0400 (EDT)] ERROR {"errorMessages":[],"errors":{"reporter":"Field 'reporter' cannot be set. It is not on the appropriate screen, or unknown."}}
+[Mon Apr 18 2016 01:14:47 GMT-0400 (EDT)] ERROR undefined
+[Mon Apr 18 2016 01:14:47 GMT-0400 (EDT)] ERROR undefined
+[Mon Apr 18 2016 01:17:58 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:18:09 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:18:43 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:19:13 GMT-0400 (EDT)] ERROR [SyntaxError: Unexpected token <]
+[Mon Apr 18 2016 01:19:13 GMT-0400 (EDT)] ERROR SyntaxError: Unexpected token <
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/node_modules/node-fetch/lib/body.js:43:15
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:20:08 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:20:44 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:21:41 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:21:53 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:23:40 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:23:58 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Mon Apr 18 2016 01:48:58 GMT-0400 (EDT)] ERROR [SyntaxError: Unexpected token <]
+[Mon Apr 18 2016 01:48:58 GMT-0400 (EDT)] ERROR SyntaxError: Unexpected token <
+  at Object.parse (native)
+  at /home/npm/hubot/node_modules/hubot-jira-bot/node_modules/node-fetch/lib/body.js:43:15
+  at lib$es6$promise$$internal$$tryCatch (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:326:16)
+  at lib$es6$promise$$internal$$invokeCallback (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:338:17)
+  at lib$es6$promise$$internal$$publish (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:309:11)
+  at lib$es6$promise$asap$$flush (/home/npm/hubot/node_modules/hubot-jira-bot/node_modules/octokat/node_modules/es6-promise/dist/es6-promise.js:120:9)
+  at process._tickCallback (node.js:448:13)
+
+[Mon Apr 18 2016 01:59:13 GMT-0400 (EDT)] INFO Supressing ticket attachment for BIL-19071 in yuan.lin
+[Thu Apr 21 2016 02:38:31 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 02:38:31 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 02:38:31 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 02:38:31 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 02:38:32 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 02:38:32 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 02:38:34 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 04:29:23 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 04:29:24 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 04:29:24 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 04:29:24 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: ReferenceError: domain is not defined
+  at module.exports (/home/npm/hubot/scripts/bellawiki.coffee:17:14, <js>:21:50)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:358:11, <js>:226:13)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 04:43:58 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 04:43:58 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 04:43:59 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 04:43:59 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: ReferenceError: Content is not defined
+  at module.exports (/home/npm/hubot/scripts/bellawiki.coffee:18:61, <js>:24:8)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:358:11, <js>:226:13)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 05:25:05 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 05:25:05 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 05:25:05 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 05:25:05 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: ReferenceError: pdata is not defined
+  at module.exports (/home/npm/hubot/scripts/bellawiki.coffee:19:17, <js>:24:13)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:358:11, <js>:226:13)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 05:26:28 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 05:26:28 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 05:26:28 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 05:26:28 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 05:26:29 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 05:26:29 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 05:26:31 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 05:30:46 GMT-0400 (EDT)] ERROR ReferenceError: pdata is not defined
+  at TextListener.callback (/home/npm/hubot/scripts/bellawiki.coffee:19:18, <js>:22:15)
+  at executeListener (/home/npm/hubot/node_modules/hubot/src/listener.coffee:65:11, <js>:53:19)
+  at allDone (/home/npm/hubot/node_modules/hubot/src/middleware.coffee:44:37, <js>:34:16)
+  at /home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:274:13
+  at Object.async.eachSeries (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:142:20)
+  at Object.async.reduce (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:268:15)
+  at /home/npm/hubot/node_modules/hubot/src/middleware.coffee:49:7, <js>:37:22
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 05:34:55 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 05:34:55 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 05:34:55 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 05:34:55 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 05:34:55 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 05:34:56 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 05:34:57 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 05:34:58 GMT-0400 (EDT)] ERROR ReferenceError: err is not defined
+  at TextListener.callback (/home/npm/hubot/scripts/bellawiki.coffee:20:4, <js>:23:11)
+  at executeListener (/home/npm/hubot/node_modules/hubot/src/listener.coffee:65:11, <js>:53:19)
+  at allDone (/home/npm/hubot/node_modules/hubot/src/middleware.coffee:44:37, <js>:34:16)
+  at /home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:274:13
+  at Object.async.eachSeries (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:142:20)
+  at Object.async.reduce (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:268:15)
+  at /home/npm/hubot/node_modules/hubot/src/middleware.coffee:49:7, <js>:37:22
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 05:36:51 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 05:36:51 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 05:36:51 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 05:36:51 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 05:36:52 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 05:36:52 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 05:36:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 05:37:14 GMT-0400 (EDT)] ERROR TypeError: Object #<IncomingMessage> has no method 'send'
+  at /home/npm/hubot/scripts/bellawiki.coffee:23:6, <js>:26:22
+  at IncomingMessage.<anonymous> (/home/npm/hubot/node_modules/hubot/node_modules/scoped-http-client/src/index.js:95:22)
+  at IncomingMessage.emit (events.js:117:20)
+  at _stream_readable.js:944:16
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 05:56:13 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 05:56:14 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 05:56:14 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 05:56:14 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 05:56:14 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 05:56:15 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 05:56:17 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 06:13:57 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 06:13:57 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 06:13:58 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 06:13:58 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 06:13:58 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 06:13:58 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 06:13:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:03:59 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:04:00 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:04:00 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:04:00 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:04:00 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:04:00 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:04:02 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:07:59 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:07:59 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:07:59 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:07:59 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:07:59 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:08:00 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:08:01 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:10:00 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:10:00 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:10:01 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:10:01 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:10:01 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:10:01 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:10:02 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:12:44 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:12:44 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:12:44 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:12:44 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:12:45 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:12:45 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:12:46 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:26:00 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:26:01 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:26:01 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:26:01 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:26:01 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:26:02 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:26:03 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:26:21 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:26:21 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:26:21 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:26:21 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:28:49 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: SyntaxError: unexpected INDENT
+  at Object.exports.throwSyntaxError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/helpers.js:197:13)
+  at Object.parser.yy.parseError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:265:20)
+  at Object.parse (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/parser.js:537:22)
+  at exports.compile.compile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at reloadAllScripts (/home/npm/hubot/node_modules/hubot-reload-scripts/src/reload-scripts.coffee:60:8, <js>:73:11)
+  at TextListener.callback (/home/npm/hubot/node_modules/hubot-reload-scripts/src/reload-scripts.coffee:27:7, <js>:20:16)
+  at executeListener (/home/npm/hubot/node_modules/hubot/src/listener.coffee:65:11, <js>:53:19)
+  at allDone (/home/npm/hubot/node_modules/hubot/src/middleware.coffee:44:37, <js>:34:16)
+  at /home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:274:13
+  at Object.async.eachSeries (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:142:20)
+  at Object.async.reduce (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:268:15)
+  at /home/npm/hubot/node_modules/hubot/src/middleware.coffee:49:7, <js>:37:22
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 09:29:10 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:29:10 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:29:10 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:29:11 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: SyntaxError: unexpected INDENT
+  at Object.exports.throwSyntaxError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/helpers.js:197:13)
+  at Object.parser.yy.parseError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:265:20)
+  at Object.parse (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/parser.js:537:22)
+  at exports.compile.compile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 09:32:59 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 09:32:59 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 09:32:59 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 09:32:59 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:33:00 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:33:00 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:33:02 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:42:59 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:42:59 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:42:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:42:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:44:14 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:44:14 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:44:14 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:44:14 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 09:44:20 GMT-0400 (EDT)] ERROR TypeError: Object #<IncomingMessage> has no method 'replace'
+  at SlackBot.send (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:229:47, <js>:278:19)
+  at runAdapterSend (/home/npm/hubot/node_modules/hubot/src/response.coffee:82:34, <js>:87:50)
+  at allDone (/home/npm/hubot/node_modules/hubot/src/middleware.coffee:44:37, <js>:34:16)
+  at /home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:274:13
+  at Object.async.eachSeries (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:142:20)
+  at Object.async.reduce (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:268:15)
+  at /home/npm/hubot/node_modules/hubot/src/middleware.coffee:49:7, <js>:37:22
+  at process._tickCallback (node.js:448:13)
+
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:44:49 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:44:49 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:44:49 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:44:49 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:46:04 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:46:04 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:46:04 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:46:04 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 09:47:47 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 09:47:47 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 09:47:47 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 09:47:47 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 10:40:47 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: SyntaxError: unexpected INDENT
+  at Object.exports.throwSyntaxError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/helpers.js:197:13)
+  at Object.parser.yy.parseError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:265:20)
+  at Object.parse (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/parser.js:537:22)
+  at exports.compile.compile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at reloadAllScripts (/home/npm/hubot/node_modules/hubot-reload-scripts/src/reload-scripts.coffee:60:8, <js>:73:11)
+  at TextListener.callback (/home/npm/hubot/node_modules/hubot-reload-scripts/src/reload-scripts.coffee:27:7, <js>:20:16)
+  at executeListener (/home/npm/hubot/node_modules/hubot/src/listener.coffee:65:11, <js>:53:19)
+  at allDone (/home/npm/hubot/node_modules/hubot/src/middleware.coffee:44:37, <js>:34:16)
+  at /home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:274:13
+  at Object.async.eachSeries (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:142:20)
+  at Object.async.reduce (/home/npm/hubot/node_modules/hubot/node_modules/async/lib/async.js:268:15)
+  at /home/npm/hubot/node_modules/hubot/src/middleware.coffee:49:7, <js>:37:22
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 10:41:10 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 10:41:10 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 10:41:10 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 10:41:10 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: SyntaxError: unexpected INDENT
+  at Object.exports.throwSyntaxError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/helpers.js:197:13)
+  at Object.parser.yy.parseError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:265:20)
+  at Object.parse (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/parser.js:537:22)
+  at exports.compile.compile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 10:47:22 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 10:47:23 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 10:47:23 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 10:47:23 GMT-0400 (EDT)] ERROR Unable to load /home/npm/hubot/scripts/bellawiki: SyntaxError: unexpected INDENT
+  at Object.exports.throwSyntaxError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/helpers.js:197:13)
+  at Object.parser.yy.parseError (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:265:20)
+  at Object.parse (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/parser.js:537:22)
+  at exports.compile.compile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:35:24)
+  at Object.loadFile (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:176:14)
+  at Module.load (/home/npm/hubot/node_modules/hubot/node_modules/coffee-script/lib/coffee-script/coffee-script.js:211:36)
+  at Function.Module._load (module.js:312:12)
+  at Module.require (module.js:364:17)
+  at require (module.js:380:17)
+  at Robot.loadFile (/home/npm/hubot/node_modules/hubot/src/robot.coffee:355:9, <js>:224:20)
+  at Robot.load (/home/npm/hubot/node_modules/hubot/src/robot.coffee:377:9, <js>:247:30)
+  at SlackBot.loadScripts (/home/npm/hubot/node_modules/hubot/bin/hubot:93:5, <js>:97:13)
+  at SlackBot.g (events.js:180:16)
+  at SlackBot.emit (events.js:92:17)
+  at SlackBot.open (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:100:5, <js>:143:19)
+  at Client.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/src/slack.coffee:1:1, <js>:3:61)
+  at Client.emit (events.js:92:17)
+  at Client.onMessage (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:450:21)
+  at WebSocket.<anonymous> (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/src/client.js:140:24)
+  at WebSocket.emit (events.js:98:17)
+  at Receiver.self._receiver.ontext (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:697:10)
+  at Receiver.opcodes.1.finish (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:397:14)
+  at Receiver.expectHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:384:31)
+  at Receiver.add (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/Receiver.js:93:24)
+  at CleartextStream.firstHandler (/home/npm/hubot/node_modules/hubot-slack/node_modules/slack-client/node_modules/ws/lib/WebSocket.js:678:22)
+  at CleartextStream.emit (events.js:95:17)
+  at CleartextStream.<anonymous> (_stream_readable.js:765:14)
+  at CleartextStream.emit (events.js:92:17)
+  at emitReadable_ (_stream_readable.js:427:10)
+  at _stream_readable.js:420:7
+  at process._tickCallback (node.js:448:13)
+
+[Thu Apr 21 2016 10:53:15 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 10:53:15 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 10:53:16 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 10:53:16 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 10:53:16 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 10:53:17 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 10:53:18 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 11:04:37 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 11:04:37 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 11:04:37 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 11:04:37 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Invalidate require cache for /home/npm/hubot/scripts/bellawiki.coffee
+Invalidate require cache for /home/npm/hubot/scripts/example.coffee
+[Thu Apr 21 2016 11:07:22 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 11:07:22 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 11:07:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 11:07:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 11:07:52 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 11:07:52 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 11:07:53 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 11:07:53 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 11:07:53 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 11:07:53 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 11:07:55 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Apr 21 2016 16:59:41 GMT-0400 (EDT)] ERROR Last pong is too old: 10.025
+[Thu Apr 21 2016 16:59:41 GMT-0400 (EDT)] INFO Reconnecting in 1000ms
+[Thu Apr 21 2016 16:59:41 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Thu Apr 21 2016 16:59:42 GMT-0400 (EDT)] INFO Attempting reconnect
+[Thu Apr 21 2016 16:59:42 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 16:59:42 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 16:59:48 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Thu Apr 21 2016 23:12:02 GMT-0400 (EDT)] INFO Connecting...
+[Thu Apr 21 2016 23:12:02 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Thu Apr 21 2016 23:12:02 GMT-0400 (EDT)] INFO Slack client now connected
+[Thu Apr 21 2016 23:12:02 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Thu Apr 21 2016 23:12:03 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Thu Apr 21 2016 23:12:03 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Thu Apr 21 2016 23:12:04 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 22 2016 05:51:23 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 22 2016 05:51:24 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Fri Apr 22 2016 05:51:24 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 22 2016 05:51:24 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Fri Apr 22 2016 05:51:24 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 22 2016 05:51:25 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Fri Apr 22 2016 05:51:27 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 22 2016 05:51:42 GMT-0400 (EDT)] ERROR undefined
+[Fri Apr 22 2016 05:53:40 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 22 2016 05:53:40 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Fri Apr 22 2016 05:53:40 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 22 2016 05:53:41 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Fri Apr 22 2016 05:53:41 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 22 2016 05:53:41 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Fri Apr 22 2016 05:53:42 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 05:53:49 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Fri Apr 22 2016 06:05:12 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 22 2016 06:05:12 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at net.js:1147:9
+  at dns.js:72:18
+  at process._tickCallback (node.js:448:13)
+
+[Fri Apr 22 2016 06:05:13 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Fri Apr 22 2016 06:05:13 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 22 2016 06:05:13 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Fri Apr 22 2016 06:05:13 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 22 2016 06:05:14 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Fri Apr 22 2016 06:05:16 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Fri Apr 22 2016 06:37:13 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Fri Apr 22 2016 11:37:32 GMT-0400 (EDT)] INFO Connecting...
+[Fri Apr 22 2016 11:37:32 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Fri Apr 22 2016 11:37:33 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Apr 22 2016 11:37:33 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Fri Apr 22 2016 11:37:33 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Apr 22 2016 11:37:34 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Fri Apr 22 2016 11:37:36 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 23 2016 03:55:27 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 23 2016 03:55:28 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sat Apr 23 2016 03:55:28 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 23 2016 03:55:28 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Sat Apr 23 2016 03:55:29 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 23 2016 03:55:31 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Sat Apr 23 2016 03:55:46 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:46 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:46 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:46 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:47 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:47 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:47 GMT-0400 (EDT)] WARNING Received rate limiting error {"code":-1,"msg":"slow down, too many messages..."}
+[Sat Apr 23 2016 03:55:47 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Sat Apr 23 2016 06:10:37 GMT-0400 (EDT)] INFO Connecting...
+[Sat Apr 23 2016 06:10:38 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Sat Apr 23 2016 06:10:38 GMT-0400 (EDT)] INFO Slack client now connected
+[Sat Apr 23 2016 06:10:38 GMT-0400 (EDT)] INFO /home/npm/hubot/scripts/bellawiki.coffee is using deprecated documentation syntax
+[Sat Apr 23 2016 06:10:39 GMT-0400 (EDT)] INFO hubot-redis-brain: Discovered redis from REDISTOGO_URL environment variable
+[Sat Apr 23 2016 06:10:41 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Apr 27 2016 01:38:00 GMT-0400 (EDT)] ERROR Last pong is too old: 14.593
+[Wed Apr 27 2016 01:38:00 GMT-0400 (EDT)] INFO Reconnecting in 1000ms
+[Wed Apr 27 2016 01:38:00 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Wed Apr 27 2016 01:38:01 GMT-0400 (EDT)] INFO Attempting reconnect
+[Wed Apr 27 2016 01:38:01 GMT-0400 (EDT)] INFO Connecting...
+[Wed Apr 27 2016 01:38:02 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Wed Apr 27 2016 01:38:03 GMT-0400 (EDT)] INFO Slack client now connected
+[Wed Apr 27 2016 08:31:11 GMT-0400 (EDT)] ERROR Last pong is too old: 14.917
+[Wed Apr 27 2016 08:31:11 GMT-0400 (EDT)] INFO Reconnecting in 1000ms
+[Wed Apr 27 2016 08:31:11 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect
+[Wed Apr 27 2016 08:31:12 GMT-0400 (EDT)] INFO Attempting reconnect
+[Wed Apr 27 2016 08:31:12 GMT-0400 (EDT)] INFO Connecting...
+[Wed Apr 27 2016 08:31:24 GMT-0400 (EDT)] INFO Logged in as little2huang of Zuora, but not yet connected
+[Wed Apr 27 2016 08:31:25 GMT-0400 (EDT)] INFO Slack client now connected
+[Wed Apr 27 2016 16:52:16 GMT-0400 (EDT)] INFO Slack client closed, waiting for reconnect

@@ -19,7 +19,7 @@
     "hubot": "~2.18.0",
     "hubot-slack": "~3.4.2",
     "hubot-microsoft-translator": "~0.2.0",
-    "hubot-qq": "",
+    "hubot-qq": "~1.4.0",
     "hubot-sentimental": "~1.0.8",
     "hubot-youtube": "~1.0.2",
     "hubot-jira-servant": "~1.2.0",
